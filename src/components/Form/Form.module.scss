@@ -1,0 +1,18 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.FormField {
+  display: flex;
+  color: black;
+}
+
+.Quantity {
+  width: 50px;
+}
+
+.Store {
+  width: 100px;
+}
